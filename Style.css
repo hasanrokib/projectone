@@ -1,0 +1,54 @@
+body{
+    background:white;
+    
+    
+    
+    
+}
+#right
+{
+    
+    background: #e6f2ff;
+    height: 1200px;
+    width: 600px;
+    
+
+}
+#form input
+{
+    border:1pxsolid#BDC7D8;
+        border-radius:5px;
+        color:black;
+        padding:10px;
+    
+    
+}
+#form select{
+    height: 30px;
+    display: inline;
+    
+    
+    
+}
+.bir_des{
+    float: left;
+    margin-top: 15px;
+}
+.bir_p{
+    float: left;
+    margin-right: 10px;
+}
+.bir_p > a{
+    color: blue;
+    margin-left: 15px;
+    margin-top: 15px;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.srk  td  p
+{
+    float: left;
+    color: red;
+    margin: 20;
+}
